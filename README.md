@@ -25,3 +25,4 @@
 ![Моя фотография](my-photo.jpg)
 
 Спасибо за посещение моего портфолио! 
+theme: jekyll-theme-minimal
